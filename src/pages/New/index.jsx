@@ -29,7 +29,7 @@ export function New(){
 
                 <Section title="Marcadores">
                     <div className="tags">
-                        <NoteItem />
+                        <NoteItem isNew/>
                         <NoteItem />
                         <NoteItem />
                         <NoteItem />

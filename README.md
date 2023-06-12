@@ -14,12 +14,6 @@ Edição de notas: As notas existentes podem ser facilmente editadas para atuali
 Exclusão de notas: Caso uma nota não seja mais relevante, o usuário pode excluí-la para manter sua lista de notas organizada.
 Visualização de notas: Todas as notas são exibidas de forma clara e ordenadas por data de criação ou ordem alfabética.
 Responsividade: A aplicação é projetada para ser responsiva, o que significa que pode ser utilizada em dispositivos móveis, tablets e desktops.
-Instalação
-Para executar o projeto em sua máquina local, siga as etapas abaixo:
-
-Certifique-se de ter o Node.js instalado em sua máquina. Você pode fazer o download e instalá-lo em: https://nodejs.org
-
-Clone este repositório em sua máquina local utilizando o seguinte comando:
 
 
 <h2>Contribuição</h2>

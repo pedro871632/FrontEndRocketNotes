@@ -13,6 +13,10 @@ export const Container = styled.div`
     padding: 22px;
     margin-bottom: 16px;
 
+
+    cursor: pointer;
+
+ 
     > h1 {
 
         flex:1;
@@ -33,5 +37,7 @@ export const Container = styled.div`
 
 
     }
+
+
 
 `;

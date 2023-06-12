@@ -9,7 +9,9 @@ export const Container = styled.span`
     color: ${({theme})=>theme.COLORS.BACKGROUND_900};
     background-color: ${({theme})=>theme.COLORS.ORANGE};
 
-
+    &:hover {
+        cursor: pointer;
+    }
 
 
 
